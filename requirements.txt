@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+textblob
+vaderSentiment
+requests
+python-dotenv
+jupyter
