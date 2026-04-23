@@ -109,3 +109,5 @@ python3 main.py
 ## 📄 License
 
 MIT License — free to use and modify.
+## Note
+Currently uses sample headlines for demonstration. Replace `get_sample_headlines()` in `fetch_data.py` with a real news API for production use.
