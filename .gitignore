@@ -5,3 +5,4 @@ __pycache__/
 data/
 myenv/
 venv/
+models/*.pkl
