@@ -95,7 +95,7 @@ python3 main.py
 - [x] Live BTC price fetching
 - [x] Sentiment + price merge
 - [x] Dashboard chart generation
-- [ ] ML model for price direction prediction
+- [x] ML model for price direction prediction
 - [ ] Real news feed integration (NewsAPI / RSS)
 - [ ] Jupyter notebook EDA
 - [ ] Streamlit web dashboard
