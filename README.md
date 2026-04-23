@@ -96,9 +96,6 @@ python3 main.py
 - [x] Sentiment + price merge
 - [x] Dashboard chart generation
 - [x] ML model for price direction prediction
-- [ ] Real news feed integration (NewsAPI / RSS)
-- [ ] Jupyter notebook EDA
-- [ ] Streamlit web dashboard
 
 ---
 
